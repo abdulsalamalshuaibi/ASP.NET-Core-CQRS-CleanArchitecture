@@ -85,7 +85,3 @@ To access the page with the performance indicators and performance:
 ```csharp
 http://localhost:{port}/profiler/results-index
 ```
-
-## License
-
-- [MIT License](https://github.com/abdulsalamalshuaibi/ASP.NET-Core-CQRS-CleanArchitecture/blob/main/LICENSE)
